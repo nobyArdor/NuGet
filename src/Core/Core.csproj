@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net45;net472</TargetFrameworks>
+    <TargetFrameworks>net45;net48</TargetFrameworks>
     <RootNamespace>NuGet</RootNamespace>
     <AssemblyName>NuGet.Squirrel</AssemblyName>
     <CodeAnalysisRuleSet>..\..\NuGet.ruleset</CodeAnalysisRuleSet>
