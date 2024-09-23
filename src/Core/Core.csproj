@@ -49,7 +49,7 @@
     </CodeAnalysisDictionary>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="ILRepack" Version="1.26.0" />
+    <PackageReference Include="ILRepack" Version="2.0.34" />
     <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
     <PackageReference Include="Microsoft.Data.Edm" Version="5.8.5" />
     <PackageReference Include="Microsoft.Data.OData" Version="5.8.5" />
